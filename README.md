@@ -1,4 +1,4 @@
-# My Project - Template de Arquitetura Java Perfeito
+# Template de Arquitetura Java Perfeito
 
 [![CI/CD Pipeline](https://github.com/seuusuario/my-project/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/seuusuario/my-project/actions)
 [![codecov](https://codecov.io/gh/seuusuario/my-project/branch/main/graph/badge.svg)](https://codecov.io/gh/seuusuario/my-project)
